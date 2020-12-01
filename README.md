@@ -22,7 +22,7 @@ which might cause null pointer exceptions.
 2. Springboot provides embedded tomcat service by default.
 3. unzip and run the application in any IDE(eg:IntelliJ)
 4. http://localhost:8080/swagger-ui.html#/   paste this link in web browser 
-5. A swagger UI will be opened
+5. A swagger UI will be opened and we can test here performance of crud operations.
 6. data will be vanished from h2 once we re-run the application.
 
 ##Testing ::
